@@ -12,7 +12,3 @@ Here's your quick security checklist:
 
 Looking for fully managed, IRS-compliant hosting solutions?
 👉 [Explore Verito's Private Cloud Hosting](https://verito.com/written-information-security-plan)
-
----
-
-*Checklist prepared based on leading cybersecurity frameworks and industry best practices.*

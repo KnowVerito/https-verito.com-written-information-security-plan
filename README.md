@@ -11,4 +11,4 @@ Here's your quick security checklist:
 - ✅ Conduct regular penetration tests
 
 Looking for fully managed, IRS-compliant hosting solutions?
-👉 [Explore Verito's Private Cloud Hosting](https://verito.com/written-information-security-plan)
+👉 [Explore Verito's Private Cloud Hosting](verito.com/written-information-security-plan)
